@@ -1,0 +1,15 @@
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/bin/Debug/net6.0/Christmas Tree
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/bin/Debug/net6.0/Christmas Tree.deps.json
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/bin/Debug/net6.0/Christmas Tree.runtimeconfig.json
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/bin/Debug/net6.0/Christmas Tree.dll
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/bin/Debug/net6.0/Christmas Tree.pdb
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.csproj.AssemblyReference.cache
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.AssemblyInfoInputs.cache
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.AssemblyInfo.cs
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.csproj.CoreCompileInputs.cache
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.dll
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/refint/Christmas Tree.dll
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.pdb
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/Christmas Tree.genruntimeconfig.cache
+/Users/julien/Documents/GitHub/Christmas-Tree/Christmas Tree/obj/Debug/net6.0/ref/Christmas Tree.dll
