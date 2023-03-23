@@ -12,3 +12,8 @@ To deploy this project run
   Exec Christmas file in Christmas Tree/bin/Debug/net6.0/
 ```
 
+or
+
+```bash
+  Run Mastermind.csproj in Visual studio and Debug it
+```
