@@ -15,5 +15,5 @@ To deploy this project run
 or
 
 ```bash
-  Run Mastermind.csproj in Visual studio and Debug it
+  Run "Christmas Tree.csproj" in Visual studio and Debug it
 ```
