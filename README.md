@@ -1,5 +1,5 @@
 
-# Christmas Tree C# Mac OS
+# Christmas Tree C#
 
 Choose a size then you will have a beuatiful Christmas Tree
 
